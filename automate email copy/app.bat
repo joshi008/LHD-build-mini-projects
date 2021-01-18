@@ -1,0 +1,1 @@
+echo joshi.hrishabh@gmail.com | clip
